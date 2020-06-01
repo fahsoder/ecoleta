@@ -12,6 +12,12 @@ Use the following command to install all react dependencies.
 npm install
 ```
 
+## Usage
+Use the following command to start node express Api.
+```bash
+npm run dev
+```
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
