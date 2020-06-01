@@ -1,0 +1,24 @@
+{
+  "name": "ecoleta",
+  "version": "1.0.0",
+  "description": "Designated to help recicle collectors connection with recicle companies.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fahsoder/ecoleta.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fahsoder/ecoleta/issues"
+  },
+  "homepage": "https://github.com/fahsoder/ecoleta#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4"
+  }
+}
